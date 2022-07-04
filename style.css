@@ -4,6 +4,7 @@ body{
 }
 section{
   display: flex;
+  margin-bottom: 100px;
 }
 .half-width{
   width: 50%;
