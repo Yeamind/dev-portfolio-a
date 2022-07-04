@@ -32,10 +32,18 @@ section{
 .half-width p{
   width: 91%;
 }
-
+.half-width a{
+  font-size: 20px;
+}
 .dream-big{
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
   
+}
+h1{
+  font-size: 45px;
+}
+h2{
+  font-size: 30px;
 }
